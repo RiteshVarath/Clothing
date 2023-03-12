@@ -1,0 +1,74 @@
+.feature{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px solid gray;
+  padding: 10px 25px;
+  box-shadow: 2px 2px 5px; rgb (0 0 0 / 10%);
+  transition: transform .05 ease-in;
+}
+
+
+
+
+<section id="product1" class="section-p1" >
+  <h2>Featured Products</h2>
+  <p> Summer Collection</p>
+<div class="product-container"></div>
+<div class="products">
+  <img src="/Images/featured products/1.jpg" alt="">
+  <div class="discription">
+    <span>.Clothing</span>
+    <h5>Floral Cotton</h5>
+    <div class="star"></div>
+    <span class="material-symbols-outlined">
+      star
+      </span>
+      <span class="material-symbols-outlined">
+        star
+        </span>
+        <span class="material-symbols-outlined">
+          star
+          </span>
+          <span class="material-symbols-outlined">
+            star
+            </span>
+            <span class="material-symbols-outlined">
+              star
+              </span>
+
+
+              =-----------------------------------------------------------------------------------------------------
+
+
+
+              /*
+.card{
+  position: relative;
+  width: 380px;
+  height: min-content;
+  padding: 25px;
+  background: #ffffff;
+  border: 2px solid #e1e3e6;
+  border-radius: 200px;
+  transition: .4s;
+
+
+}
+
+.card:hover{
+
+  border-color: #ffffff;
+  transform: translateY(-10px);
+  box-shadow: 0 5px 12px rgb(0, 0, 0.06);
+
+}*/
+
+/*.product1 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}*/
+
+-----------------------------------------------------------------------------------------------------------
